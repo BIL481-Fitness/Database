@@ -1,0 +1,71 @@
+bolge,hareket_adi,set_sayisi,tekrar_sayisi,ekipman
+Gogus,Bench Press,3,8-10,Barbell
+Gogus,Incline Bench Press,3,8-10,Barbell
+Gogus,Chest Fly,4,12-15,Dumbbell
+Gogus,Push-Up,3,15-20,Bodyweight
+Gogus,Cable Crossover,4,12-15,Cable
+Gogus,Dumbbell Bench Press,3,8-10,Dumbbell
+Gogus,Pec Deck Machine,3,12-15,Machine
+Gogus,Decline Bench Press,3,8-10,Barbell
+Gogus,Dips,3,12-15,Bodyweight
+Gogus,Landmine Press,4,8-10,Barbell
+Omuz,Overhead Press,3,8-10,Barbell
+Omuz,Lateral Raise,4,12-15,Dumbbell
+Omuz,Front Raise,4,12-15,Dumbbell
+Omuz,Arnold Press,3,8-10,Dumbbell
+Omuz,Machine Shoulder Press,3,10-12,Machine
+Omuz,Cable Face Pull,4,15-20,Cable
+Omuz,Reverse Fly,3,10-12,Dumbbell
+Omuz,Seated Dumbbell Press,4,8-10,Dumbbell
+Omuz,Upright Row,3,12-15,Barbell
+Omuz,Dumbbell Shrug,4,10-12,Dumbbell
+Biceps,Barbell Curl,4,8-10,Barbell
+Biceps,Dumbbell Curl,3,10-12,Dumbbell
+Biceps,Concentration Curl,3,10-12,Dumbbell
+Biceps,Hammer Curl,3,8-10,Dumbbell
+Biceps,Preacher Curl,3,10-12,Barbell or Dumbbell
+Biceps,Cable Curl,4,12-15,Cable
+Biceps,Incline Dumbbell Curl,3,10-12,Dumbbell
+Biceps,Zottman Curl,3,8-10,Dumbbell
+Biceps,Reverse Curl,3,10-12,Barbell
+Biceps,Spider Curl,4,8-10,Barbell or Dumbbell
+On Kol,Wrist Curl,3,12-15,Dumbbell
+On Kol,Reverse Wrist Curl,3,12-15,Dumbbell
+On Kol,Farmer's Walk,3,15-20,Dumbbell
+On Kol,Reverse Curl,3,10-12,Barbell
+On Kol,Zottman Curl,3,10-12,Dumbbell
+On Kol,Hammer Curl,4,8-10,Dumbbell
+On Kol,Preacher Curl,3,10-12,Dumbbell
+On Kol,Plate Pinch,3,15-20,Plate
+On Kol,Cable Curl,4,12-15,Cable
+On Kol,Reverse Barbell Curl,4,12-15,Barbell
+Arka Kol,Tricep Pushdown,3,10-12,Cable
+Arka Kol,Skull Crushers,4,8-10,Barbell
+Arka Kol,Dips,3,15-20,Bodyweight
+Arka Kol,Close Grip Bench Press,3,8-10,Barbell
+Arka Kol,Overhead Tricep Extension,4,12-15,Dumbbell
+Arka Kol,Tricep Kickback,3,12-15,Dumbbell
+Arka Kol,Rope Tricep Extension,4,12-15,Cable
+Arka Kol,Tricep Dips (Bench),3,12-15,Bodyweight
+Arka Kol,One-Arm Overhead Extension,3,10-12,Dumbbell
+Arka Kol,Cable Overhead Tricep Extension,4,10-12,Cable
+Sirt,Pull-Up,3,8-10,Bodyweight
+Sirt,Lat Pulldown,4,10-12,Cable
+Sirt,Barbell Row,3,8-10,Barbell
+Sirt,Deadlift,4,8-10,Barbell
+Sirt,T-Bar Row,4,10-12,Barbell
+Sirt,Seated Row,3,10-12,Cable
+Sirt,Dumbbell Row,3,12-15,Dumbbell
+Sirt,Face Pull,3,12-15,Cable
+Sirt,Hyperextension,4,12-15,Bodyweight
+Sirt,Chin-Up,3,8-10,Bodyweight
+Bacak,Squat,4,8-10,Barbell
+Bacak,Leg Press,4,10-12,Machine
+Bacak,Lunges,3,12-15,Bodyweight or Dumbbell
+Bacak,Romanian Deadlift,3,8-10,Barbell
+Bacak,Leg Curl,4,12-15,Machine
+Bacak,Leg Extension,3,12-15,Machine
+Bacak,Bulgarian Split Squat,3,10-12,Dumbbell
+Bacak,Calf Raise,4,15-20,Machine or Dumbbell
+Bacak,Hack Squat,4,8-10,Machine
+Bacak,Step-Up,3,12-15,Dumbbell
