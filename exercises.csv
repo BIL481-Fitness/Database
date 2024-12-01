@@ -1,0 +1,71 @@
+id;exercise_name;body_part;sets;reps;equipment
+1;Bench Press;Gogus;3;8;Barbell
+2;Incline Bench Press;Gogus;3;8;Barbell
+3;Chest Fly;Gogus;4;10;Dumbbell
+4;Push-Up;Gogus;3;10;Bodyweight
+5;Cable Crossover;Gogus;4;8;Cable
+6;Dumbbell Bench Press;Gogus;3;10;Dumbbell
+7;Pec Deck Machine;Gogus;3;12;Machine
+8;Decline Bench Press;Gogus;3;14;Barbell
+9;Dips;Gogus;3;10;Bodyweight
+10;Landmine Press;Gogus;4;8;Barbell
+11;Overhead Press;Omuz;3;12;Barbell
+12;Lateral Raise;Omuz;4;10;Dumbbell
+13;Front Raise;Omuz;4;8;Dumbbell
+14;Arnold Press;Omuz;3;12;Dumbbell
+15;Machine Shoulder Press;Omuz;3;14;Machine
+16;Cable Face Pull;Omuz;4;10;Cable
+17;Reverse Fly;Omuz;3;15;Dumbbell
+18;Seated Dumbbell Press;Omuz;4;12;Dumbbell
+19;Upright Row;Omuz;3;15;Barbell
+20;Dumbbell Shrug;Omuz;4;10;Dumbbell
+21;Barbell Curl;Biceps;4;8;Barbell
+22;Dumbbell Curl;Biceps;3;10;Dumbbell
+23;Concentration Curl;Biceps;3;8;Dumbbell
+24;Hammer Curl;Biceps;3;8;Dumbbell
+25;Preacher Curl;Biceps;3;12;Barbell or Dumbbell
+26;Cable Curl;Biceps;4;10;Cable
+27;Incline Dumbbell Curl;Biceps;3;14;Dumbbell
+28;Zottman Curl;Biceps;3;16;Dumbbell
+29;Reverse Curl;Biceps;3;8;Barbell
+30;Spider Curl;Biceps;4;8;Barbell or Dumbbell
+31;Wrist Curl;On Kol;3;10;Dumbbell
+32;Reverse Wrist Curl;On Kol;3;10;Dumbbell
+33;Farmer's Walk;On Kol;3;8;Dumbbell
+34;Reverse Curl;On Kol;3;10;Barbell
+35;Zottman Curl;On Kol;3;12;Dumbbell
+36;Hammer Curl;On Kol;4;14;Dumbbell
+37;Preacher Curl;On Kol;3;10;Dumbbell
+38;Plate Pinch;On Kol;3;8;Plate
+39;Cable Curl;On Kol;4;12;Cable
+40;Reverse Barbell Curl;On Kol;4;10;Barbell
+41;Tricep Pushdown;Arka Kol;3;8;Cable
+42;Skull Crushers;Arka Kol;4;12;Barbell
+43;Dips;Arka Kol;3;14;Bodyweight
+44;Close Grip Bench Press;Arka Kol;3;10;Barbell
+45;Overhead Tricep Extension;Arka Kol;4;15;Dumbbell
+46;Tricep Kickback;Arka Kol;3;12;Dumbbell
+47;Rope Tricep Extension;Arka Kol;4;15;Cable
+48;Tricep Dips (Bench);Arka Kol;3;10;Bodyweight
+49;One-Arm Overhead Extension;Arka Kol;3;8;Dumbbell
+50;Cable Overhead Tricep Extension;Arka Kol;4;10;Cable
+51;Pull-Up;Sirt;3;8;Bodyweight
+52;Lat Pulldown;Sirt;4;8;Cable
+53;Barbell Row;Sirt;3;12;Barbell
+54;Deadlift;Sirt;4;10;Barbell
+55;T-Bar Row;Sirt;4;14;Barbell
+56;Seated Row;Sirt;3;16;Cable
+57;Dumbbell Row;Sirt;3;8;Dumbbell
+58;Face Pull;Sirt;3;10;Cable
+59;Hyperextension;Sirt;4;8;Bodyweight
+60;Chin-Up;Sirt;3;8;Bodyweight
+61;Squat;Bacak;4;12;Barbell
+62;Leg Press;Bacak;4;10;Machine
+63;Lunges;Bacak;3;14;Bodyweight or Dumbbell
+64;Romanian Deadlift;Bacak;3;16;Barbell
+65;Leg Curl;Bacak;4;8;Machine
+66;Leg Extension;Bacak;3;10;Machine
+67;Bulgarian Split Squat;Bacak;3;8;Dumbbell
+68;Calf Raise;Bacak;4;8;Machine or Dumbbell
+69;Hack Squat;Bacak;4;12;Machine
+70;Step-Up;Bacak;3;10;Dumbbell
