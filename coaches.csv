@@ -1,6 +1,6 @@
 id;name;specialization;age;weight;height;experience_level;password
-1;Sibel Demir;Strength Training, CrossFit;29;71.06;179.35;5;1234
-2;Cem Kilic;Nutrition, Bodybuilding;27;85.96;189.02;3;1234
-3;Hakan Arslan;Cardio, Endurance;35;75.0;168.42;2;1234
-4;Berk Demir;Nutrition, Weight Loss;35;82.53;189.96;1;1234
-5;Mustafa Demir;Endurance, Strength Training;32;84.87;168.71;3;1234
+1;Sibel Demir;Strength Training, CrossFit;29;71,06;179,35;5;1234
+2;Cem Kilic;Nutrition, Bodybuilding;27;85,96;189,02;3;1234
+3;Hakan Arslan;Cardio, Endurance;35;75,00;168,42;2;1234
+4;Berk Demir;Nutrition, Weight Loss;35;82,53;189,96;1;1234
+5;Mustafa Demir;Endurance, Strength Training;32;84,87;168,71;3;1234
